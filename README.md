@@ -6,7 +6,8 @@
 - Phelo
 - Marya
 - Safwa
-- Shorouk 
+- Shorouk
+- Sayed
 
 ## Project Idea
 
